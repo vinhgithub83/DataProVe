@@ -7,6 +7,6 @@ The verification engine of DataProVe is based on logic, combining both the so-ca
 
 The tool is available in two formats, .exe and .pyc. You just need to download and double click on them to run the program. 
 
-The user manual version 1.0 is for the DataProVe-v0.9. 
+The user manual v1.0 is for the DataProVe-v0.9. 
 
-The template policy (.pol) and architecture (.arch) files can be found in the zip called "template files used in the manual", just open them in the app and try. 
+The template policy (.pol) and architecture (.arch) files can be found in the zip called "Template files used in the manual", just open them in the app and try. 
