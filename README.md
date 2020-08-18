@@ -5,9 +5,9 @@ DataProVe is a tool with GUI written in Python that allows a user to specify a h
 
 The verification engine of DataProVe is based on logic (resolution based proofs), combining both the so-called backward and forward search strategies. 
 
-The tool is available in two formats, .exe and .pyc. You just need to download and double click on them to run the program. You may be asked in Windows if you really want to run/trust the .exe file due to its extension.
-
-The user manual v1.0 is for the DataProVe-v0.9. 
+The tool is available in two formats, .exe and .pyc. You just need to download and double click on them to run the program. 
+- You may be asked in Windows if you really want to run/trust the .exe file, because by default, any .exe extension is suspicous for the Windows. It will offer an option if you want to proceed. 
+- If you want to run the .pyc file, then you need ideally Python 3.8.5 (or above, from https://www.python.org/downloads/).  
 
 The template policy (.pol) and architecture (.arch) files can be found in the zip called "Template files used in the manual", just open them in the app and try. 
 
