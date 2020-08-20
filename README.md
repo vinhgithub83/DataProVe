@@ -15,4 +15,4 @@ The tool is available in two formats, .exe and .pyc. You just need to download a
 
 The template policy (.pol) and architecture (.arch) files can be found in the zip called "Template files used in the manual", just open them in the app and try. 
 
-To watch the demo videos, please visit the following site: https://sites.google.com/site/drvinhthongta/dataprove/dataprove-demo-videos
+To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/site/drvinhthongta/dataprove/dataprove-demo-videos
