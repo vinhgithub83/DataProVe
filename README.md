@@ -1,5 +1,5 @@
 # DataProVe
-DataProVe: A Data Protection Policy and System Architecture Verification Tool
+DataProVe: A Data Protection Policy and System Architecture Verification Tool (https://sites.google.com/view/dataprove/)
 
 DataProVe is a tool with GUI written in Python that allows a user to specify a high-level data protection (or privacy) policy and a system architecture, then verify the conformance between the specified architecture and the high-level policy in a fully automated way. 
 
