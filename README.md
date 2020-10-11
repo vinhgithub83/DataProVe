@@ -18,7 +18,10 @@ The template policy (.pol) and architecture (.arch) files can be found in the zi
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/site/drvinhthongta/dataprove/dataprove-demo-videos
 
 Latest version: DataProVe-v0.9.1.
-- fixed the save and open policy and architecture functionalities in version 0.9.
+- Fixed the save and open policy and architecture functionalities in version 0.9.
 
 Manual v0.9.1:
-- pseudonym example added (example 13).
+- A pseudonym example added (example 13).
+
+Manual v0.9.1-Oct:
+- A new application example (without crypto function) added between pages 33-38. 
