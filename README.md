@@ -23,6 +23,8 @@ To watch demo videos about DataProVe, please visit the following site: https://s
 Latest version: DataProVe-v0.9.1.
 - Fixed the save and open policy and architecture functionalities in version 0.9.
 
+UPDATES: 
+
 Manual v0.9.1:
 - A pseudonym example added (example 13).
 
