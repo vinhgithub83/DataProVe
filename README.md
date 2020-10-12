@@ -12,7 +12,7 @@ The tool is available in two formats, .exe and .pyc. You just need to download a
 
       python "<replace_with_path_to_file>\DataProVe-v0.9.1.pyc" 
 
-.Exe: You might be asked in Windows if you really want to run/trust the .exe file, because by default, any .exe extension is suspicious for the operating systems, especially for Windows. It will offer you an option  to proceed though (the app contains no malicious code, so it's safe to run. 
+- .Exe: You might be asked in Windows if you really want to run/trust the .exe file, because by default, any .exe extension is suspicious for the operating systems, especially for Windows. It will offer you an option  to proceed though (the app contains no malicious code, so it's safe to run. 
 
 The template policy (.pol) and architecture (.arch) files can be found in the zip called "Template files used in the manual", just open them in the app and try. 
 
