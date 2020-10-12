@@ -28,3 +28,6 @@ Manual v0.9.1:
 
 Manual v0.9.1-Oct:
 - A new application example (without crypto function) added between pages 33-38. 
+
+"Template files used in the manual v0.9.1-Oct.zip": 
+- Policy and architecture files added for the contact tracing app examples. 
