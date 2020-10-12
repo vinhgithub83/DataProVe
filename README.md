@@ -29,7 +29,7 @@ Manual v0.9.1:
 - A pseudonym example added (example 13).
 
 Manual v0.9.1-Oct:
-- A new application example (without crypto function) added between pages 33-38. 
+- A new application example (contact tracing app, without crypto function) added between pages 33-38. 
 
 "Template files used in the manual v0.9.1-Oct.zip": 
 - Policy and architecture files added for the contact tracing app examples. 
