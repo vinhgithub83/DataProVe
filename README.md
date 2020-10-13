@@ -33,3 +33,9 @@ Manual v0.9.1-Oct:
 
 "Template files used in the manual v0.9.1-Oct.zip": 
 - Policy and architecture files added for the contact tracing app examples. 
+
+Renamed "Template files used in the manual v0.9.1-Oct.zip" to “Pol and arch files used in the manual v0.9.1.zip”
+
+“Pol and arch files used in the manual v0.9.1.zip”
+ - Now contains the complete list of policy and architecture files used in the user manual. 
+ - The examples got the names referred to in the user manual, so it is easier to find which files correspond to which example in the manual.  
