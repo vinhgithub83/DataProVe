@@ -8,15 +8,15 @@ The main goal of the tool is to help a system designer at the higher level (comp
 The verification engine of DataProVe is based on logic (resolution based proofs), combining both the so-called backward and forward search strategies. 
 
 The tool is available in two formats, .exe and .pyc. You just need to download and double click on them to run the program. 
-- .Pyc: If you want to run the .pyc file, then you need to install, ideally, Python version 3.8.2 or 3.8.5 32bit (or above, from https://www.python.org/downloads/). This file can be run by either double click or from command line, e.g., under Windows cmd using the command (assumed that you already added Python to path, see this guide https://geek-university.com/python/add-python-to-the-windows-path/): 
+- DataProVe-v0.9.1.pyc (Recommended) : If you want to run the .pyc file, then you need to install, Python version 3.8.2 or 3.8.5 32bit/64bit or above (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing. This file can be run by either double click or from command line, e.g., under Windows cmd using the command (assumed that you already added Python to path, see this guide https://geek-university.com/python/add-python-to-the-windows-path/): 
 
       python "<replace_with_path_to_file>\DataProVe-v0.9.1.pyc" 
 
 Note: Virustotal found DataProVe-v0.9.1.pyc 100% clean by 59 scan engines: https://www.virustotal.com/gui/file/f711941a5e8177e4abbc380ae6f438bc780203ad4e90be67615aa2d89179a0ea/detection)
 
-- .Exe: Just double click on the file to run it. You might be asked in Windows if you really want to run/trust the .exe file (as it is not digitally signed and shown as unknown publisher). The app contains no malicious code, so it's safe to run (56 antivirus scan engines found it safe, including BitDefender, Kaspersky, Sophos AV, McAfee). 
+- DataProVe-v0.9.1.exe : Just double click on the file to run it. You might be asked in Windows if you really want to run/trust the .exe file (as it is not digitally signed and shown as unknown publisher). The app contains no malicious code, so it's safe to run (56 antivirus scan engines found it safe, including BitDefender, Kaspersky, Sophos AV, McAfee). 
 
-The template policy (.pol) and architecture (.arch) files can be found in the zip called "Template files used in the manual", just open them in the app and try. 
+The template policy (.pol) and architecture (.arch) files can be found in the zip called “Pol and arch files used in the manual v0.9.1.zip”, just open them in the app and try. 
 
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/site/drvinhthongta/dataprove/dataprove-demo-videos
 
@@ -36,6 +36,6 @@ Manual v0.9.1-Oct:
 
 Renamed "Template files used in the manual v0.9.1-Oct.zip" to “Pol and arch files used in the manual v0.9.1.zip”
 
-“Pol and arch files used in the manual v0.9.1.zip”
+“Pol and arch files used in the manual v0.9.1.zip”: 
  - Now contains the complete list of policy and architecture files used in the user manual. 
  - The examples got the names referred to in the user manual, so it is easier to find which files correspond to which example in the manual.  
