@@ -11,8 +11,8 @@ The verification engine of DataProVe is based on logic (resolution based proofs)
 The tool is available in two formats, .exe and .pyc. You just need to download and double click on them to run the program. 
 
 - <b> DataProVe-v0.9.1.pyc (Recommended) </b>: If you want to run the .pyc file, then you need to install, <b> Python version 3.8.2 or 3.8.5 32bit/64bit or above </b> (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing.          
-      1. This file can be run by either double click or 
-      2. from command line, e.g., under Windows cmd using the command (assumed that you already added Python to path, see this guide https://geek-university.com/python/add-python-to-the-windows-path/): 
+      - This file can be run by either double click or 
+      - from command line, e.g., under Windows cmd using the command (assumed that you already added Python to path, see this guide https://geek-university.com/python/add-python-to-the-windows-path/): 
 
             python "<replace_with_path_to_file>\DataProVe-v0.9.1.pyc" 
 
