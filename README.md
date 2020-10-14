@@ -7,6 +7,7 @@ The main goal of the tool is to help a system designer at the higher level (comp
 
 The verification engine of DataProVe is based on logic (resolution based proofs), combining both the so-called backward and forward search strategies. 
 
+<h2> Downloads: </h2>
 The tool is available in two formats, .exe and .pyc. You just need to download and double click on them to run the program. 
 - <b> DataProVe-v0.9.1.pyc (Recommended) </b>: If you want to run the .pyc file, then you need to install, <b> Python version 3.8.2 or 3.8.5 32bit/64bit or above </b> (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing. This file can be run by either double click or from command line, e.g., under Windows cmd using the command (assumed that you already added Python to path, see this guide https://geek-university.com/python/add-python-to-the-windows-path/): 
 
@@ -16,14 +17,19 @@ Note: Virustotal found DataProVe-v0.9.1.pyc 100% clean by 59 scan engines: https
 
 - <b> DataProVe-v0.9.1.exe </b>: Just double click on the file to run it. You might be asked in Windows if you really want to run/trust the .exe file (as it is not digitally signed and shown as unknown publisher). The app contains no malicious code, so it's safe to run (56 antivirus scan engines found it safe, including BitDefender, Kaspersky, Sophos AV, McAfee). 
 
+- You can also download the .zip file called "Both versions.zip" that contains both the .pyc and .exe versions. 
+
+<h2> Policy and Architecture Files Used in the Manual: </h2>
 The template policy (.pol) and architecture (.arch) files can be found in the zip called “Pol and arch files used in the manual v0.9.1.zip”, just open them in the app and try. 
 
+<h2> Demo Videos: </h2>
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/site/drvinhthongta/dataprove/dataprove-demo-videos
 
-Latest version: DataProVe-v0.9.1.
+<h2> Versions: </h2>
+The latest version is: DataProVe-v0.9.1.
 - Fixed the save and open policy and architecture functionalities in version 0.9.
 
-<h2> UPDATES </h2>: 
+<h2> Updates: </h2> 
 
 Manual v0.9.1:
 - A pseudonym example added (example 13).
