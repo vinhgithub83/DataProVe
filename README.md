@@ -18,7 +18,7 @@ Note: Virustotal found DataProVe-v0.9.1.pyc 100% clean by 59 scan engines: https
 
 - <b> DataProVe-v0.9.1.exe </b>: Just double click on the file to run it. You might be asked in Windows if you really want to run/trust the .exe file (as it is not digitally signed and shown as unknown publisher). The app contains no malicious code, so it's safe to run (56 antivirus scan engines found it safe, including BitDefender, Kaspersky, Sophos AV, McAfee). 
 
-- You can also download the .zip file called "DataProVe-all.zip" that contains both the .pyc and .exe versions, and the user manual. 
+- You can also download the .zip file called "DataProVe-v0.9.1-all.zip" that contains both the .pyc and .exe versions, and the user manual. 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
 The template policy (.pol) and architecture (.arch) files can be found in the zip called “Pol and arch files used in the manual v0.9.1.zip”, just open them in the app and try. 
