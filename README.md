@@ -26,7 +26,7 @@ Note: Virustotal found DataProVe-v0.9.1.pyc 100% clean by 59 scan engines: https
 The template policy (.pol) and architecture (.arch) files can be found in the zip called <i>“Pol and arch files used in the manual v0.9.1.zip”</i>, just open them in the app and try. 
 
 <h2> Demo Videos: </h2>
-To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/site/drvinhthongta/dataprove/dataprove-demo-videos
+To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/view/dataprove/demo-videos
 
 <h2> Versions: </h2>
 The latest version is: DataProVe-v0.9.1.
