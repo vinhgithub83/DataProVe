@@ -1,6 +1,6 @@
 This folder contains different versions of the reports, besides the [Arxiv versions](https://arxiv.org/abs/2008.08936), on the theoretical foundation of DataProVe. 
 
-Version 24th October 2020:
+<b>Version 24th October 2020:</b>
 - 64 pages.
 - Includes the discussion of well-formed policies (Section 3.4) and well-formed architectures (Section 4.4). 
 - More detailed and extensive explanation of the verification engine.
