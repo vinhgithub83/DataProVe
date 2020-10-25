@@ -4,4 +4,5 @@ This folder contains different versions of the reports (besides the Arxiv versio
 - 64 pages.
 - Includes the discussion of well-formed policies (Section 3.4) and well-formed architectures (Section 4.4). 
 - More detailed and extensive explanation of the verification engine.
+- More detailed discussion on how the trivial HAS, LINK, LINKUNIQUE facts are generated directly from the architectural actions Figure 13-14. (Forward search strategy.)
 - More detailed discussion of the properties. 
