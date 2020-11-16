@@ -29,7 +29,7 @@ The template policy (.pol) and architecture (.arch) files can be found in the zi
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/view/dataprove/demo-videos
 
 <h2> Versions: </h2>
-The latest version is: DataProVe-v0.9.1.
+The latest version is: DataProVe-v0.9.2.
 - Fixed the save and open policy and architecture functionalities in version 0.9.
 
 <h2> Updates: </h2> 
@@ -48,3 +48,7 @@ Renamed "Template files used in the manual v0.9.1-Oct.zip" to “Pol and arch fi
 “Pol and arch files used in the manual v0.9.1.zip”: 
  - Now contains the complete list of policy and architecture files used in the user manual. 
  - The examples got the names referred to in the user manual, so it is easier to find which files correspond to which example in the manual.  
+
+Version 0.9.2 uploaded: 
+ - Fixed the "open a policy" issue (completely delete the previous opened policy when open a new policy) 
+ - Improved the verification for the Linkability property (increased the layer of allowed compound datatype)
