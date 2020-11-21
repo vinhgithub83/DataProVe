@@ -16,7 +16,7 @@ The tool is available in two formats, .exe and .pyc. You just need to download a
 
             python "<replace_with_path_to_file>\DataProVe-v0.9.3.pyc" 
 
-Note: Virustotal found DataProVe-v0.9.3.pyc clean by 58 scan engines: https://www.virustotal.com/gui/file/db7142bc110cc4418cfc5b3578f5ac8c36109ec768af784fee790fe5ec910cb9/detection)
+Note: Virustotal found DataProVe-v0.9.3.pyc clean by 61 scan engines: https://www.virustotal.com/gui/file/5931c949bf42b041a6fec6d9a0b305a0e9b451d26e87dd40c9c136423c7c0f33/detection)
 
 - <b> DataProVe-v0.9.3.exe </b>: Just double click on the file to run it. You might be asked in Windows if you really want to run/trust the .exe file (as it is not digitally signed and shown as unknown publisher). The app contains no malicious code, so it's safe to run (59 antivirus scan engines found it safe, including BitDefender, Kaspersky, Sophos AV, McAfee, Microsoft). 
 
