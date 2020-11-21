@@ -61,3 +61,5 @@ Version 0.9.3 uploaded:
      - (4) textbox can be also dragged with its text area not only at the border.).
  - Exception handling fixed.
  - Updated the template files (“Pol and arch files used in the manual v0.9.3.zip”), with examples for the TEXT MODE. 
+ - User Manual v0.9.3 with examples of the TEXT MODE at the end of the document. 
+ - “Pol and arch files used in the manual v0.9.3.zip” contains some examples of the TEXT MODE (Examples-TEXTMODE). 
