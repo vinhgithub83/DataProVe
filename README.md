@@ -55,9 +55,9 @@ Version 0.9.3 uploaded:
  - Changed menu items.
  - Added the TEXT MODE specification for architectures. 
  - Changed the GUI features/commands (e.g. 
-     (1) to change color of a component: double click on the left mouse button, 
-     (2) to delete a component, line or textbox use the spacebar on the keyboard, 
-     (3) moving objects with both mouse and keyboard arrows, 
-     (4) textbox can be also dragged with its text area not only at the border.).
+     - (1) to change color of a component: double click on the left mouse button, 
+     - (2) to delete a component, line or textbox use the spacebar on the keyboard, 
+     - (3) moving objects with both mouse and keyboard arrows, 
+     - (4) textbox can be also dragged with its text area not only at the border.).
  - Exception handling fixed.
  - Updated the template files (“Pol and arch files used in the manual v0.9.3.zip”), with examples for the TEXT MODE. 
