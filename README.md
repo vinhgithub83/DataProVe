@@ -16,19 +16,19 @@ The tool is available in two formats, .exe and .pyc. You just need to download a
 
             python "<replace_with_path_to_file>\DataProVe-v0.9.3.pyc" 
 
-Note: Virustotal found DataProVe-v0.9.2.pyc clean by 61 scan engines: https://www.virustotal.com/gui/file/53752afdc64a280cc6ff01c5d485cd17f9708b0ae8bcfb3d7af188c18931ea5d/detection)
+Note: Virustotal found DataProVe-v0.9.3.pyc clean by 58 scan engines: https://www.virustotal.com/gui/file/db7142bc110cc4418cfc5b3578f5ac8c36109ec768af784fee790fe5ec910cb9/detection)
 
-- <b> DataProVe-v0.9.3.exe </b>: Just double click on the file to run it. You might be asked in Windows if you really want to run/trust the .exe file (as it is not digitally signed and shown as unknown publisher). The app contains no malicious code, so it's safe to run (60 antivirus scan engines found it safe, including BitDefender, Kaspersky, Sophos AV, McAfee). 
+- <b> DataProVe-v0.9.3.exe </b>: Just double click on the file to run it. You might be asked in Windows if you really want to run/trust the .exe file (as it is not digitally signed and shown as unknown publisher). The app contains no malicious code, so it's safe to run (59 antivirus scan engines found it safe, including BitDefender, Kaspersky, Sophos AV, McAfee, Microsoft). 
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
-The template policy (.pol) and architecture (.arch) files can be found in the zip called <i>“Pol and arch files used in the manual v0.9.1.zip”</i>, just open them in the app and try. 
+The template policy (.pol) and architecture (.arch) files can be found in the zip called <i>“Pol and arch files used in the manual v0.9.3.zip”</i>, just open them in the app and try. 
 
 <h2> Demo Videos: </h2>
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/view/dataprove/demo-videos
 
 <h2> Versions: </h2>
-The latest version is: DataProVe-v0.9.3.
+The <b>latest version</b> is: DataProVe-v0.9.3.
 - Fixed the save and open policy and architecture functionalities in version 0.9.
 
 <h2> Updates: </h2> 
@@ -53,3 +53,8 @@ Version 0.9.2 uploaded:
  - Improved the verification for the Linkability property (increased the layer of allowed compound datatype)
  
 Version 0.9.3 uploaded: 
+ - Changed menu items
+ - Added the TEXT MODE specification for architectures. 
+ - Changed the GUI features/commands (e.g. (1) to change color of a component: double click on the left mouse button, (2) to delete a component, line or textbox use the spacebar on the keyboard, (3) moving objects with both mouse and keyboard arrows, (4) textbox can be also dragged with its text area not only at the border.).
+ - Exception handling fixed.
+ - Updated the template files (“Pol and arch files used in the manual v0.9.3.zip”), with examples for the TEXT MODE. 
