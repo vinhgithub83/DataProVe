@@ -21,13 +21,13 @@ Note: MD5: 8a491b590c1611957a47cfca4fd5e7fa
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
-The template policy (.pol) and architecture (.arch) files can be found in the zip called <i>“Pol and arch files used in the manual v0.9.3.zip”</i>, just open them in the app and try. 
+The template policy (.pol) and architecture (.arch) files can be found in the zip called <i>“Pol and arch files used in the manual v0.9.4.zip”</i>, just open them in the app and try. 
 
 <h2> Demo Videos: </h2>
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/view/dataprove/demo-videos
 
 <h2> Versions: </h2>
-The <b>latest version</b> is: <b>DataProVe-v0.9.3</b>.
+The <b>latest version</b> is: <b>DataProVe-v0.9.4</b>.
 
 <h2> Updates: </h2> 
 
