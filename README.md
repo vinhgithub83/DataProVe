@@ -10,15 +10,13 @@ The verification engine of DataProVe is based on logic (resolution based proofs)
 <h2> Downloads: </h2>
 The tool is available in two formats, .exe and .pyc. You just need to download and double click on them to run the program. 
 
-- <b> DataProVe-v0.9.3.pyc (Recommended) </b>: If you want to run the .pyc file, then you need to install, <b> Python version 3.8.2 or 3.8.5 32bit/64bit or above </b> (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing.          
+- <b> DataProVe-v0.9.4.pyc  </b>: To run the .pyc file you need to install, <b> Python version 3.8.2 or 3.8.5 32bit/64bit or above </b> (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing.          
       * This file can be run by either double clicking on the DataProVe-v0.9.3.pyc file, or    
       * from command line, e.g., under Windows cmd using the command (assumed that you already added Python to path, see this guide https://geek-university.com/python/add-python-to-the-windows-path/): 
 
-            python "<replace_with_path_to_file>\DataProVe-v0.9.3.pyc" 
+            python "<replace_with_path_to_file>\DataProVe-v0.9.4.pyc" 
 
 Note: Virustotal found DataProVe-v0.9.3.pyc clean by 61 scan engines: https://www.virustotal.com/gui/file/5931c949bf42b041a6fec6d9a0b305a0e9b451d26e87dd40c9c136423c7c0f33/detection)
-
-- <b> DataProVe-v0.9.3.exe </b>: Just double click on the file to run it. You might be asked in Windows if you really want to run/trust the .exe file (as it is not digitally signed and shown as unknown publisher). The app contains no malicious code, so it's safe to run (59 antivirus scan engines found it safe, including BitDefender, Kaspersky, Sophos AV, McAfee, Microsoft). 
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
@@ -63,3 +61,8 @@ Version 0.9.3 uploaded:
  - Updated the template files (“Pol and arch files used in the manual v0.9.3.zip”), with examples for the TEXT MODE. 
  - User Manual v0.9.3 with examples of the TEXT MODE at the end of the document. 
  - “Pol and arch files used in the manual v0.9.3.zip” contains some examples of the TEXT MODE (Examples-TEXTMODE). 
+ 
+ Version 0.9.4 uploaded:
+ - Improved verification engine
+ - Minor changes in the menubar
+ - Tested on real-life contact tracing approaches (a version of DP3T https://github.com/DP-3T/documents, and an example implementation of PEPP-PT https://github.com/pepp-pt/pepp-pt-documentation.)
