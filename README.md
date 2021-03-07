@@ -16,8 +16,8 @@ The tool is available in two formats, .exe and .pyc. You just need to download a
 
             python "<replace_with_path_to_file>\DataProVe-v0.9.4.pyc" 
 
-Note: MD5: 4bd5a8b171b58bbbe1132987f4bc38b5 
-(Virustotal found DataProVe-v0.9.4.pyc clean by 59 scan engines: https://www.virustotal.com/gui/file/b6fe3986cdc180769b7f2b214fc8c47f6bdedc2912d52a221a4913a5dd4e2733/detection)
+Note: MD5: d2659a066265b6ac5a9de94f846a9416 
+(Virustotal found DataProVe-v0.9.4.pyc clean by 59 scan engines: https://www.virustotal.com/gui/file/4719e08f10b3b38915d407c19effad54a3718242c0ddac1a31f75069887d4fb4/detection)
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
@@ -66,4 +66,6 @@ Version 0.9.3 uploaded:
  Version 0.9.4 uploaded:
  - Improved verification engine
  - Minor changes in the menubar
+ - Minor changes with the content of the warning messages in the verification results window.
  - Tested on real-life contact tracing approaches (a version of DP3T https://github.com/DP-3T/documents, and an example implementation of PEPP-PT https://github.com/pepp-pt/pepp-pt-documentation.)
+ - The template .zip contains extra examples in the folder called "Example-TEXTMODE-Link-Enc" with encryption for the TEXT MODE.
