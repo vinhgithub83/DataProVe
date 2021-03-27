@@ -10,11 +10,11 @@ The verification engine of DataProVe is based on logic (resolution based proofs)
 <h2> Downloads: </h2>
 The tool is available in .pcy format. You just need to download and double click on them to run the program. 
 
-- <b> DataProVe-v0.9.5.pyc  </b>: To run the .pyc file you need to install, <b> Python version 3.8.2 or 3.8.5 32bit/64bit or above </b> (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing.          
-      * This file can be run by either double clicking on the DataProVe-v0.9.5.pyc file, or    
+- <b> DataProVe-v0.9.6.pyc  </b>: To run the .pyc file you need to install, <b> Python version 3.8.2 or 3.8.5 32bit/64bit or above </b> (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing.          
+      * This file can be run by either double clicking on the DataProVe-v0.9.6.pyc file, or    
       * from command line, e.g., under Windows cmd using the command (assumed that you already added Python to path, see this guide https://geek-university.com/python/add-python-to-the-windows-path/): 
 
-            python "<replace_with_path_to_file>\DataProVe-v0.9.5.pyc" 
+            python "<replace_with_path_to_file>\DataProVe-v0.9.6.pyc" 
 
 Note: MD5: 308aee7da3c2f3bf875a462c6e05177b 
 (Virustotal found DataProVe-v0.9.5.pyc clean by 57 scan engines: https://www.virustotal.com/gui/file/3a41e751832f5b51d2d7ca8b08567a04405eaaa74ce991f3fe26fddbd5a55d17/detection)
