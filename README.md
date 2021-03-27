@@ -73,3 +73,5 @@ Version 0.9.3 uploaded:
  Version 0.9.5 uploaded:
  - Improved verification speed using intermediary storage techniques. 
  - Extended the description for purposes in the verification results window. 
+
+Version 0.9.6 uploaded:
