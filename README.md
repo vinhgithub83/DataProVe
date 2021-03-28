@@ -17,7 +17,7 @@ The tool is available in .pcy format. You just need to download and double click
             python "<replace_with_path_to_file>\DataProVe-v0.9.6.pyc" 
 
 Note: MD5: 308aee7da3c2f3bf875a462c6e05177b 
-(Virustotal found DataProVe-v0.9.5.pyc clean by 57 scan engines: https://www.virustotal.com/gui/file/3a41e751832f5b51d2d7ca8b08567a04405eaaa74ce991f3fe26fddbd5a55d17/detection)
+(Virustotal found DataProVe-v0.9.6.pyc clean by 58 scan engines: https://www.virustotal.com/gui/file/e2932886537b7db5cd9b78daa7312f1c55d3d59e55793c8be72a418e9f251526/detection)
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
@@ -75,3 +75,7 @@ Version 0.9.3 uploaded:
  - Extended the description for purposes in the verification results window. 
 
 Version 0.9.6 uploaded:
+ - Actions CALCULATEFROM(component,Datatype1,Datatype2) and CALCULATEFROMAT(component,Datatype1,Datatype2,Time(t)) are added to specify a piece of data can be calculated from another piece of data. 
+ - Improve notification text for the verification results.  
+ - Added more TEXTMODE examples in the "Pol and Arch files used in the manual" (including the example with CALCULATEFROMAT)
+ - Improved the user manual, make it more related to the version 0.9.6.
