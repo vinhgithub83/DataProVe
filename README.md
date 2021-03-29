@@ -16,8 +16,8 @@ The tool is available in .pcy format. You just need to download and double click
 
             python "<replace_with_path_to_file>\DataProVe-v0.9.6.pyc" 
 
-Note: MD5: a1de58a62f7d60aba8ac62d1ded2f19f 
-(Virustotal found DataProVe-v0.9.6.pyc clean by 58 scan engines: https://www.virustotal.com/gui/file/e2932886537b7db5cd9b78daa7312f1c55d3d59e55793c8be72a418e9f251526/detection)
+Note: MD5: 35080d84dd483217c91fabe57933ae7f 
+(Virustotal found DataProVe-v0.9.6.pyc clean by 58 scan engines: https://www.virustotal.com/gui/file/fc04687c7e317c7a50f53c50ee5f6a87310434da13f018da35d14a25e483e764/detection)
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
