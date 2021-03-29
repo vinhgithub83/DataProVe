@@ -16,12 +16,12 @@ The tool is available in .pcy format. You just need to download and double click
 
             python "<replace_with_path_to_file>\DataProVe-v0.9.6.pyc" 
 
-Note: MD5: 308aee7da3c2f3bf875a462c6e05177b 
+Note: MD5: a1de58a62f7d60aba8ac62d1ded2f19f 
 (Virustotal found DataProVe-v0.9.6.pyc clean by 58 scan engines: https://www.virustotal.com/gui/file/e2932886537b7db5cd9b78daa7312f1c55d3d59e55793c8be72a418e9f251526/detection)
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
-The template policy (.pol) and architecture (.arch) files can be found in the zip called <i>“Pol and arch files used in the manual v0.9.4.zip”</i>, just open them in the app and try. 
+The template policy (.pol) and architecture (.arch) files can be found in the zip called <i>“Pol and arch files used in the manual v0.9.6.zip”</i>, just open them in the app and try. 
 
 <h2> Demo Videos: </h2>
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/view/dataprove/demo-videos
