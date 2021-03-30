@@ -67,7 +67,7 @@ Version 0.9.3 uploaded:
  - Improved verification engine
  - Minor changes in the menubar
  - Minor changes with the content of the warning messages in the verification results window.
- - Tested on real-life contact tracing approaches (a version of DP3T https://github.com/DP-3T/documents, and an example implementation of PEPP-PT https://github.com/pepp-pt/pepp-pt-documentation.)
+ - Tested on real-life contact tracing approaches (a version of DP3T https://github.com/DP-3T/documents, and an example implementation of PEPP-PT https://github.com/pepp-pt/pepp-pt-documentation. Video link to the verification: https://www.youtube.com/watch?v=JxI-OzoFuR8) 
  - The template .zip contains extra examples in the folder called "Example-TEXTMODE-Link-Enc" with encryption for the TEXT MODE.
  
  Version 0.9.5 uploaded:
@@ -77,5 +77,6 @@ Version 0.9.3 uploaded:
 Version 0.9.6 uploaded:
  - Actions CALCULATEFROM(component,Datatype1,Datatype2) and CALCULATEFROMAT(component,Datatype1,Datatype2,Time(t)) are added to specify a piece of data can be calculated from another piece of data. 
  - Improve notification text for the verification results.  
+ - The TEXTMODE saving also includes the list of relationships between main and sub-components, which will be then loaded in the program when the arch .txt file is opened. 
  - Added more TEXTMODE examples in the "Pol and Arch files used in the manual" (including the example with CALCULATEFROMAT)
  - Improved the user manual, make it more related to the version 0.9.6.
