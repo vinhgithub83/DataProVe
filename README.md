@@ -67,8 +67,8 @@ Version 0.9.3 uploaded:
  - Improved verification engine
  - Minor changes in the menubar
  - Minor changes with the content of the warning messages in the verification results window.
- - Tested on real-life contact tracing approaches (a version of DP3T https://github.com/DP-3T/documents, and an example implementation of PEPP-PT https://github.com/pepp-pt/pepp-pt-documentation. 
-   - Video link to the verification: https://www.youtube.com/watch?v=JxI-OzoFuR8) 
+ - Tested on real-life contact tracing approaches (a version of DP3T https://github.com/DP-3T/documents, and an example implementation of PEPP-PT https://github.com/pepp-pt/pepp-pt-documentation.) 
+   - Video link to the verification: https://www.youtube.com/watch?v=JxI-OzoFuR8 
  - The template .zip contains extra examples in the folder called "Example-TEXTMODE-Link-Enc" with encryption for the TEXT MODE.
  
  Version 0.9.5 uploaded:
