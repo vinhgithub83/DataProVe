@@ -7,6 +7,9 @@ The main goal of the tool is to help a system designer at the higher level (comp
 
 The verification engine of DataProVe is based on logic (resolution based proofs), combining both the so-called backward and forward search strategies. 
 
+<h2> Versions: </h2>
+The <b>latest version</b> is: <b>DataProVe-v0.9.8</b>.
+
 <h2> Downloads: </h2>
 The tool is available in .pcy format. You just need to download and double click on them to run the program. 
 
@@ -16,8 +19,8 @@ The tool is available in .pcy format. You just need to download and double click
 
             python "<replace_with_path_to_file>\DataProVe-v0.9.8.pyc" 
 
-MD5 (DataProVe-v0.9.8.pyc) :    
-(Virustotal found DataProVe-v0.9.8.pyc clean by 58 scan engines: )
+MD5 (DataProVe-v0.9.8.pyc) : fcf25e08ce8ff2409edbe217a9552fc4    
+(Virustotal found DataProVe-v0.9.8.pyc clean by 58 scan engines: https://www.virustotal.com/gui/file/e232d5cea5540dcdb82928abf89b5ee935a770815fa1ff594f30b00355e6903f/detection)
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
@@ -25,9 +28,6 @@ The template policy (.pol) and architecture (.arch) files can be found in the zi
 
 <h2> Demo Videos: </h2>
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/view/dataprove/demo-videos
-
-<h2> Versions: </h2>
-The <b>latest version</b> is: <b>DataProVe-v0.9.8</b>.
 
 <h2> Updates: </h2> 
 
