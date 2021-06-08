@@ -10,14 +10,14 @@ The verification engine of DataProVe is based on logic (resolution based proofs)
 <h2> Downloads: </h2>
 The tool is available in .pcy format. You just need to download and double click on them to run the program. 
 
-- <b> DataProVe-v0.9.7.pyc  </b>: To run the .pyc file you need to install, <b> Python version 3.8.2 or 3.8.5 32bit/64bit or above </b> (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing.          
+- <b> DataProVe-v0.9.8.pyc  </b>: To run the .pyc file you need to install, <b> Python version 3.8.2 or 3.8.5 32bit/64bit or above </b> (from https://www.python.org/downloads/). If you have an older version of Python (e.g. Python 3.6), the .pyc file still runs, but some functionality might be missing.          
       * This file can be run by either double clicking on the DataProVe-v0.9.7.pyc file, or    
       * from command line, e.g., under Windows cmd using the command (assumed that you already added Python to path, see this guide https://geek-university.com/python/add-python-to-the-windows-path/): 
 
             python "<replace_with_path_to_file>\DataProVe-v0.9.7.pyc" 
 
-MD5 (DataProVe-v0.9.7.pyc) :  b827405e4a91851e9f0e7ebdb37df6af  
-(Virustotal found DataProVe-v0.9.7.pyc clean by 58 scan engines: https://www.virustotal.com/gui/file/0f6cdfff4aa6c551b4e9e0f4ec53c797dbee9525ede25e3ba2a84ebf82ae54dd/detection)
+MD5 (DataProVe-v0.9.8.pyc) :    
+(Virustotal found DataProVe-v0.9.8.pyc clean by 58 scan engines: )
 
 
 <h2> Policy and Architecture Files Used in the Manual: </h2>
@@ -27,7 +27,7 @@ The template policy (.pol) and architecture (.arch) files can be found in the zi
 To watch demo videos about DataProVe, please visit the following site: https://sites.google.com/view/dataprove/demo-videos
 
 <h2> Versions: </h2>
-The <b>latest version</b> is: <b>DataProVe-v0.9.7</b>.
+The <b>latest version</b> is: <b>DataProVe-v0.9.8</b>.
 
 <h2> Updates: </h2> 
 
@@ -84,3 +84,8 @@ Version 0.9.6 uploaded:
 
 Version 0.9.7 uploaded:
  - Improved and fixed linkability verification for compound data types.  
+
+Version 0.9.8 uploaded:
+- The tool now supports any number of layers of nested cryptographic functions/encryption inside a datatype. 
+- Added three attacker models: External attackers, insider attackers, hybrid attackers. 
+- Improved verification speed. 
