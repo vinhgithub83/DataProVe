@@ -87,5 +87,6 @@ Version 0.9.7 uploaded:
 
 Version 0.9.8 uploaded:
 - The tool now supports any number of layers of nested cryptographic functions/encryption inside a datatype. 
-- Added three attacker models: External attackers, insider attackers, hybrid attackers. The user can verify if an architecture comforms with a policy in the presence of 1) external attackers, 2) insider attackers, and 3) hybrid (colluding external and insider) attackers. The three new verification options can be found under the tab "VERIFY"
+- Added three attacker models: External attackers, insider attackers, hybrid attackers. The user can verify if an architecture comforms with a policy in the presence of 1) external attackers, 2) insider attackers, and 3) hybrid (colluding external and insider) attackers. The three new verification options can be found under the tab "VERIFY".
+- In the policy specification page, the entity called "att" is added to the list of default entities (besides sp), to mode the attacker(s).
 - Improved verification speed. 
