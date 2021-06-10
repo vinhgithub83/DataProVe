@@ -8,7 +8,7 @@ The main goal of the tool is to help a system designer at the higher level (comp
 The verification engine of DataProVe is based on logic (resolution based proofs), combining both the so-called backward and forward search strategies. 
 
 <h2> Versions: </h2>
-The <b>latest version</b> is: <b>DataProVe-v0.9.8</b>.
+The <b>latest version</b> is: <b>DataProVe-v0.9.8 (June 8, 2021)</b>.
 
 <h2> Downloads: </h2>
 The tool is available in .pcy format. You just need to download and double click on them to run the program. 
