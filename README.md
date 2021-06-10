@@ -31,6 +31,16 @@ To watch demo videos about DataProVe, please visit the following site: https://s
 
 <h2> Updates: </h2> 
 
+**Version 0.9.8 uploaded:**
+- The tool now supports any number of layers of nested cryptographic functions/encryption inside a datatype. 
+- Added three attacker models: External attackers, insider attackers, hybrid attackers. The user can verify if an architecture comforms with a policy in the presence of 1) external attackers, 2) insider attackers, and 3) hybrid (colluding external and insider) attackers. The three new verification options can be found under the tab "VERIFY".
+- In the policy specification page, the entity called "att" is added to the list of default entities (besides sp), to model the attacker(s).
+- Improved verification speed. 
+- The file "Pol and arch files used in the manual v0.9.8.zip" contains the template files for the nested crypto, and attackers (in the folder "Examples-TEXTMODE").
+- To specify that the insider attackers have compromised the entities E1,...,En, in the menutab "SPECIFY THE RELATION BETWEEN THE MAIN COMPONENTS AND THE SUB-COMPONENTS", provide <b>att:E1,...,En</b>. 
+
+OLDER UPDATES: 
+
 Manual v0.9.1:
 - A pseudonym example added (example 13).
 
@@ -85,10 +95,4 @@ Version 0.9.6 uploaded:
 Version 0.9.7 uploaded:
  - Improved and fixed linkability verification for compound data types.  
 
-Version 0.9.8 uploaded:
-- The tool now supports any number of layers of nested cryptographic functions/encryption inside a datatype. 
-- Added three attacker models: External attackers, insider attackers, hybrid attackers. The user can verify if an architecture comforms with a policy in the presence of 1) external attackers, 2) insider attackers, and 3) hybrid (colluding external and insider) attackers. The three new verification options can be found under the tab "VERIFY".
-- In the policy specification page, the entity called "att" is added to the list of default entities (besides sp), to model the attacker(s).
-- Improved verification speed. 
-- The file "Pol and arch files used in the manual v0.9.8.zip" contains the template files for the nested crypto, and attackers (in the folder "Examples-TEXTMODE").
-- To specify that the insider attackers have compromised the entities E1,...,En, in the menutab "SPECIFY THE RELATION BETWEEN THE MAIN COMPONENTS AND THE SUB-COMPONENTS", provide <b>att:E1,...,En</b>. 
+
